@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niteshkumar-L
 - 👀 I’m interested in Web Development And App Development
-- 🌱 I’m currently learning Angular and React.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on Web application.
 - 📫 How to reach me 
 
